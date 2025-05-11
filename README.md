@@ -1,10 +1,7 @@
-## Hi there 👋
+# Hi there, I'm Navadeep Jakkamsetti! 👋
+Welcome to my GitHub profile! I'm an undergraduate student at Aditya College of Engineering, pursuing a B.Tech in Computer Science (2022-2026). I’m passionate about data analysis, machine learning, and front-end web development, and I love building projects that solve real-world problems.
 
-
-**navadeep-05/navadeep-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+##🚀 About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
