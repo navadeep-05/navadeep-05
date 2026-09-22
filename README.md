@@ -33,7 +33,7 @@ I’m passionate about **data analysis**, **machine learning**, and **front-end 
 
 ## 🤝 Let's Connect!
 
-- 📧 **Email:** your.email@example.com  
+- 📧 **Email:** navadeepjakkamsetti26@gmail.com  
 - 💼 **LinkedIn:** [Navadeep Jakkamsetti](https://www.linkedin.com/in/your-link)  
 - 🌐 **Portfolio:** [Your Portfolio Link](https://your-portfolio-link.com)
 
