@@ -1,4 +1,4 @@
-# Hi there, I'm Navadeep Jakkamsetti! 👋
+<img width="1600" height="760" alt="WhatsApp Image 2026-09-22 at 14 40 08" src="https://github.com/user-attachments/assets/64a24583-ae31-4500-b7bc-2253477cbff8" /># Hi there, I'm Navadeep Jakkamsetti! 👋
 
 Welcome to my GitHub profile!  
 I'm an undergraduate student at **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**, pursuing a **B.Tech in Artificial Intelligence and Data Science (2022–2026)**.  
@@ -34,8 +34,8 @@ I’m passionate about **data analysis**, **machine learning**, and **front-end 
 ## 🤝 Let's Connect!
 
 - 📧 **Email:** navadeepjakkamsetti26@gmail.com  
-- 💼 **LinkedIn:** [Navadeep Jakkamsetti](https://www.linkedin.com/in/your-link)  
-- 🌐 **Portfolio:** [Your Portfolio Link](https://your-portfolio-link.com)
+- 💼 **LinkedIn:** [Navadeep Jakkamsetti](www.linkedin.com/in/navadeep-jakkamsetti2022)  
+- 🌐 **Portfolio:** [Your Portfolio Link](https://nvd-jakkamsetti.netlify.app/)
 
 ---
 
