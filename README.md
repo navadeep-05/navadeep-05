@@ -35,7 +35,7 @@ I’m passionate about **data analysis**, **machine learning**, and **front-end 
 
 - 📧 **Email:** navadeepjakkamsetti26@gmail.com  
 - 💼 **LinkedIn:** [Navadeep Jakkamsetti](www.linkedin.com/in/navadeep-jakkamsetti2022)  
-- 🌐 **Portfolio:** [Your Portfolio Link](https://nvd-jakkamsetti.netlify.app/)
+- 🌐 **Portfolio:** [Your Portfolio Link](https://navadeep-jakkamsetti-portfolio-21b.netlify.app/)
 
 ---
 
